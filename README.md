@@ -28,7 +28,7 @@ This project analyzes a dataset of 4,350 car tyre records to uncover insights ab
 
 The analysis generates 5 comprehensive visualizations:
 
-1. **Selling Price Distribution** - Right-skewed distribution showing most tyres priced under ₹7,500
+1. **Selling Price Distribution** - Right-skewed distribution showing most tyres priced under R7,500
 2. **Top 10 Tyre Brands** - Bar chart showing market dominance  
 3. **Rating Distribution** - Bimodal distribution with peaks at 4.0 and 5.0
 4. **Price vs Rating Scatter** - Relationship between cost and customer satisfaction
@@ -36,7 +36,7 @@ The analysis generates 5 comprehensive visualizations:
 
 ### Key Visual Insights:
 - **BridgeStone dominates** the market with highest volume
-- **Price concentration** in the ₹3,000-₹6,000 range
+- **Price concentration** in the R3,000-R6,000 range
 - **High customer satisfaction** with ratings clustered at 4.0+ stars
 - **Tubeless technology** represents 93.4% of the market
 - **Weak price-rating correlation** suggests value-based purchasing
@@ -50,9 +50,9 @@ The analysis generates 5 comprehensive visualizations:
 4. **JKTyre** - Significant market presence
 
 ### Price Analysis
-- **Average Selling Price**: ₹4,247
-- **Average Original Price**: ₹5,892
-- **Average Discount**: ₹1,645 (28% savings)
+- **Average Selling Price**: R4,247
+- **Average Original Price**: R5,892
+- **Average Discount**: R1,645 (28% savings)
 
 ### Rating Distribution
 - **Average Rating**: 4.1/5.0
